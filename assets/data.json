@@ -1,0 +1,62 @@
+[
+	{
+		"field1": "1",
+		"field2": "MALICIOUS",
+		"field3": "500",
+		"field4": "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><soap:Code><soap:Value>soap:Receiver</soap:Value></soap:Code><soap:Reason><soap:Text xml:lang=\"en\">Server was unable to process request. ---> Object reference not set to an instance of an object.</soap:Text></soap:Reason><soap:Detail /></soap:Fault></soap:Body></soap:Envelope>"
+	},
+	{
+		"field1": "2",
+		"field2": "MALICIOUS",
+		"field3": "500",
+		"field4": "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><soap:Code><soap:Value>soap:Receiver</soap:Value></soap:Code><soap:Reason><soap:Text xml:lang=\"en\">Server was unable to process request. ---> Object reference not set to an instance of an object.</soap:Text></soap:Reason><soap:Detail /></soap:Fault></soap:Body></soap:Envelope>"
+	},
+	{
+		"field1": "3",
+		"field2": "MALICIOUS",
+		"field3": "500",
+		"field4": "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><soap:Code><soap:Value>soap:Receiver</soap:Value></soap:Code><soap:Reason><soap:Text xml:lang=\"en\">Server was unable to process request. ---> Object reference not set to an instance of an object.</soap:Text></soap:Reason><soap:Detail /></soap:Fault></soap:Body></soap:Envelope>"
+	},
+	{
+		"field1": "4",
+		"field2": "MALICIOUS",
+		"field3": "500",
+		"field4": "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><soap:Code><soap:Value>soap:Receiver</soap:Value></soap:Code><soap:Reason><soap:Text xml:lang=\"en\">Server was unable to process request. ---> Object reference not set to an instance of an object.</soap:Text></soap:Reason><soap:Detail /></soap:Fault></soap:Body></soap:Envelope>"
+	},
+	{
+		"field1": "5",
+		"field2": "MALICIOUS",
+		"field3": "500",
+		"field4": "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><soap:Fault><soap:Code><soap:Value>soap:Receiver</soap:Value></soap:Code><soap:Reason><soap:Text xml:lang=\"en\">Server was unable to process request. ---> Object reference not set to an instance of an object.</soap:Text></soap:Reason><soap:Detail /></soap:Fault></soap:Body></soap:Envelope>"
+	},
+	{
+		"field1": "6",
+		"field2": "MALICIOUS",
+		"field3": "503",
+		"field4": "<HTML><HEAD>\n<TITLE>Internal Server Error</TITLE>\n</HEAD><BODY>\n<H1>Internal Server Error - Write</H1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<P>\nReference #4.15e11602.1551829626.1ac4d2d\n</BODY></HTML>"
+	},
+	{
+		"field1": "7",
+		"field2": "MALICIOUS",
+		"field3": "503",
+		"field4": "<HTML><HEAD>\n<TITLE>Internal Server Error</TITLE>\n</HEAD><BODY>\n<H1>Internal Server Error - Write</H1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<P>\nReference #4.15e11602.1551829667.1ac6b04\n</BODY></HTML>"
+	},
+	{
+		"field1": "8",
+		"field2": "MALICIOUS",
+		"field3": "503",
+		"field4": "<HTML><HEAD>\n<TITLE>Internal Server Error</TITLE>\n</HEAD><BODY>\n<H1>Internal Server Error - Write</H1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<P>\nReference #4.15e11602.1551829700.1ac82af\n</BODY></HTML>"
+	},
+	{
+		"field1": "9",
+		"field2": "MALICIOUS",
+		"field3": "503",
+		"field4": "<HTML><HEAD>\n<TITLE>Internal Server Error</TITLE>\n</HEAD><BODY>\n<H1>Internal Server Error - Write</H1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<P>\nReference #4.15e11602.1551829740.1ac9ee2\n</BODY></HTML>"
+	},
+	{
+		"field1": "10",
+		"field2": "MALICIOUS",
+		"field3": "503",
+		"field4": "<HTML><HEAD>\n<TITLE>Internal Server Error</TITLE>\n</HEAD><BODY>\n<H1>Internal Server Error - Write</H1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<P>\nReference #4.713b3717.1551829774.88758f46\n</BODY></HTML>"
+	}
+]
